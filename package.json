@@ -1,0 +1,13 @@
+{
+  "name": "@secret-momo/telegram-notifier",
+  "module": "index.ts",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "A Telegram notifier",
+  "devDependencies": {
+    "@types/bun": "1.3.11"
+  },
+  "peerDependencies": {
+    "typescript": "6.0.2"
+  }
+}
